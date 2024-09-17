@@ -1,0 +1,7 @@
+{
+    "code": "1234",
+    "mime": "text/plain",
+    "to": "michael@michaelyuan.com",
+    "subject": "This is a test message from flows.network",
+    "body": "This flow function is capable of sending email!"
+}
