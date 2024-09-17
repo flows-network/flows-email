@@ -22,6 +22,6 @@ Modify the `example.json` as follows.
 Replace the URL in the `curl` command to the webhook in your deployed flow function.
 
 ```
-curl -X POST --data-binary "@example.json" https://
+curl -X POST --data-binary "@example.json" https://code.flows.network/webhook/ruvTvWEtUoK0WyZq3w5y/send_email
 ```
 
