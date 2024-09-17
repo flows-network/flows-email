@@ -9,6 +9,7 @@
 | ------------- | ------------- |
 | SENDGRID_AUTH_TOKEN  | The Sendgrid API key  |
 | SENDGRID_FROM  | The validated FROM email address registered by this Sendgrid account  |
+| RUST_LOG | debug |
 | PASS_CODE  | The pass code required to auth the caller  |
 
 ## Test
